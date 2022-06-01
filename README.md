@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Nedeltoga
-- 👀 I’m interested in videogames and nature.
+
+
 <h1 align="center">Hi 👋, I'm Belén</h1>
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
+- 👀 I’m interested in videogames and nature.
 - 🌱 I’m currently learning **HTML, CSS, JS, react, boostrap and more!**
 
 - ⚡ Fun fact **I teach programming and robotics for kids.**
